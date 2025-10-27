@@ -52,19 +52,13 @@
   <a href="https://github.com/za7081539-blip" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
-  <a href="mailto:your-email@example.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
+
   <a href="zain.ali1690" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
-  <a href="https://vk.com/your_vk_username" target="_blank">
-    <img src="https://img.shields.io/badge/VK-0077FF?style=for-the-badge&logo=vk&logoColor=white"/>
+<a href="https://www.instagram.com/zain.ali1690/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
-  <a href="https://www.wikimedia.org/" target="_blank">
-    <img src="https://img.shields.io/badge/Wikimedia-339966?style=for-the-badge&logo=wikimedia&logoColor=white"/>
-  </a>
-</p>
 
 ---
 
