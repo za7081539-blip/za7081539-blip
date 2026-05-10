@@ -1,42 +1,63 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0D1117,100:D4AF37&text=Zain%20Ali&fontColor=ffffff&fontSize=55&fontAlignY=38&desc=Frontend%20Developer%20•%20Modern%20UI%20Designer%20•%20JavaScript%20Developer&descAlignY=58" />
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=500&size=26&duration=3000&pause=1000&color=D4AF37&center=true&vCenter=true&width=850&lines=Building+Modern+Responsive+Websites;Frontend+Developer+Focused+on+UI%2FUX;Creating+Interactive+Web+Experiences;JavaScript+Developer+and+UI+Designer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:0B0F19,50:111827,100:D4AF37&text=ZAIN%20ALI&fontColor=FFFFFF&fontSize=60&fontAlignY=35&desc=Frontend%20Developer%20%7C%20UI%2FUX%20Designer%20%7C%20JavaScript%20Developer&descAlignY=55&animation=fadeIn" />
 
 <br/>
 
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=2500&pause=1000&color=D4AF37&center=true&vCenter=true&width=950&lines=Building+Modern+and+Responsive+Web+Experiences;Frontend+Developer+Focused+on+Performance+and+UI;Creating+Interactive+and+Scalable+Interfaces;Clean+Code+%E2%80%A2+Modern+Design+%E2%80%A2+Better+UX" />
+
+<br/><br/>
+
 <a href="https://github.com/YOUR_USERNAME">
-<img src="https://img.shields.io/github/followers/YOUR_USERNAME?logo=github&style=for-the-badge&color=D4AF37&labelColor=0D1117" />
+<img src="https://img.shields.io/github/followers/YOUR_USERNAME?style=for-the-badge&logo=github&color=D4AF37&labelColor=0D1117" />
 </a>
 
 <a href="https://github.com/YOUR_USERNAME">
-<img src="https://img.shields.io/github/stars/YOUR_USERNAME?style=for-the-badge&color=D4AF37&labelColor=0D1117" />
+<img src="https://img.shields.io/github/stars/YOUR_USERNAME?style=for-the-badge&logo=github&color=D4AF37&labelColor=0D1117" />
 </a>
 
 <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=D4AF37" />
+
+<img src="https://img.shields.io/badge/Focus-Frontend%20Development-D4AF37?style=for-the-badge&labelColor=0D1117" />
 
 </div>
 
 ---
 
-# 💫 About Me
+# ⚡ PROFILE
 
 ```yaml
 Name: Zain Ali
 Role: Frontend Developer
+Specialization: Modern UI/UX Development
 Location: Pakistan
-Focus: Responsive Web Development
-Learning: JavaScript & Advanced Frontend
-Passion: Clean UI/UX and Interactive Interfaces
+Experience: Frontend & Responsive Web Design
+Currently Learning:
+  - JavaScript
+  - Advanced Frontend Concepts
+  - UI Animation
+Main Goal:
+  - Build Professional Web Experiences
 ```
-
-I’m a frontend developer passionate about building modern, responsive, and visually engaging websites.  
-I enjoy transforming ideas into clean and interactive digital experiences while continuously improving my frontend development skills.
 
 ---
 
-# 🚀 Tech Stack
+# 🧠 ABOUT ME
+
+Frontend developer passionate about crafting modern, responsive, and visually polished websites with clean user experiences.
+
+I focus on:
+- Responsive layouts
+- Interactive UI components
+- Modern frontend structure
+- Clean and scalable code
+- Performance-focused design
+
+I enjoy transforming creative ideas into real web experiences using modern frontend technologies.
+
+---
+
+# 🚀 TECH STACK
 
 <div align="center">
 
@@ -46,32 +67,22 @@ I enjoy transforming ideas into clean and interactive digital experiences while 
 
 ---
 
-# ⚡ Current Goals
-
-- Build high-quality frontend projects
-- Master JavaScript and modern UI development
-- Improve frontend architecture and responsiveness
-- Create professional portfolio-level applications
-- Contribute consistently on GitHub
-
----
-
-# 🧠 Frontend Skills
+# 💻 DEVELOPMENT EXPERTISE
 
 <div align="center">
 
-| Development | Design | Tools |
+| Frontend | UI/UX | Tools |
 |---|---|---|
-| HTML5 | UI Design | Git |
-| CSS3 | Responsive Design | GitHub |
-| JavaScript | Modern Layouts | VS Code |
-| Web Animation | User Experience | Figma |
+| HTML5 | Responsive Design | Git |
+| CSS3 | Modern Layout Systems | GitHub |
+| JavaScript | User Interface Design | VS Code |
+| Web Animations | User Experience | Figma |
 
 </div>
 
 ---
 
-# 📌 Featured Projects
+# 📌 FEATURED PROJECTS
 
 <div align="center">
 
@@ -80,14 +91,24 @@ I enjoy transforming ideas into clean and interactive digital experiences while 
 <td width="50%">
 
 ## ✨ Hair Salon Website
-Modern salon website with elegant UI, responsive sections, animations, and clean layout structure.
+
+Modern salon platform featuring:
+- Elegant responsive design
+- Interactive sections
+- Mobile optimization
+- Smooth user experience
 
 </td>
 
 <td width="50%">
 
-## 🌐 Portfolio Website
-Professional developer portfolio with responsive design and project showcase sections.
+## 🌐 Personal Portfolio
+
+Professional developer portfolio with:
+- Project showcase
+- Skills section
+- Responsive layout
+- Clean modern UI
 
 </td>
 </tr>
@@ -95,15 +116,25 @@ Professional developer portfolio with responsive design and project showcase sec
 <tr>
 <td width="50%">
 
-## 📅 Booking Form UI
-Modern responsive booking form with clean styling and frontend validation.
+## 📅 Booking Form Interface
+
+Frontend booking system featuring:
+- Responsive form layout
+- Clean validation structure
+- Modern form UI
+- Better accessibility
 
 </td>
 
 <td width="50%">
 
-## ⚡ JavaScript Components
-Interactive frontend components and reusable UI elements using vanilla JavaScript.
+## ⚡ JavaScript UI Components
+
+Reusable frontend components including:
+- Navigation systems
+- Interactive elements
+- Dynamic interfaces
+- UI animations
 
 </td>
 </tr>
@@ -113,65 +144,65 @@ Interactive frontend components and reusable UI elements using vanilla JavaScrip
 
 ---
 
-# 📊 GitHub Analytics
+# 📊 GITHUB ANALYTICS
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=D4AF37&icon_color=D4AF37" />
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=D4AF37" />
 
 </div>
 
 ---
 
-# 🔥 GitHub Contribution Streak
+# 🔥 CONTRIBUTION STREAK
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true&background=0D1117" />
+<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true&background=0D1117&ring=D4AF37&fire=D4AF37&currStreakLabel=D4AF37" />
 
 </div>
 
 ---
 
-# 🏆 GitHub Achievements
+# 📈 ACTIVITY GRAPH
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=D4AF37&line=D4AF37&point=FFFFFF" />
 
 </div>
 
 ---
 
-# 📈 Contribution Graph
+# 🏆 ACHIEVEMENTS
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true&bg_color=0D1117" />
+<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=15&margin-h=15" />
 
 </div>
 
 ---
 
-# 🌐 Connect With Me
+# 🌍 CONNECT WITH ME
 
 <div align="center">
 
 <a href="https://github.com/YOUR_USERNAME">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=D4AF37" />
 </a>
 
 </div>
 
 ---
 
-# 💡 Developer Mindset
+# 💡 PHILOSOPHY
 
 <div align="center">
 
-### “Great frontend development is where clean code meets exceptional user experience.”
+### “Design is not just what it looks like — design is how it works.”
 
 </div>
 
@@ -179,6 +210,6 @@ Interactive frontend components and reusable UI elements using vanilla JavaScrip
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0D1117,100:D4AF37" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=150&color=0:0B0F19,50:111827,100:D4AF37" />
 
 </div>
